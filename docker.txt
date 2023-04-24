@@ -1,1 +1,2 @@
 production.cloudflare.docker.com
+*.docker.com
