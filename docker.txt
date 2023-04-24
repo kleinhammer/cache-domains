@@ -2,3 +2,4 @@ production.cloudflare.docker.com
 *.docker.com
 registry-1.docker.io
 registry.hub.docker.com
+docker.io
