@@ -1,1 +1,1 @@
-hub.docker.com
+production.cloudflare.docker.com
