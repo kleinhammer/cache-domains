@@ -6,11 +6,6 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
-			"name": "docker",
-			"description": "docker",
-			"domain_files": ["docker.txt"]
-		},
-		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
